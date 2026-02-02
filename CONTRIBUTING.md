@@ -15,3 +15,4 @@ Notes and usage details for agent-search-mcp.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
