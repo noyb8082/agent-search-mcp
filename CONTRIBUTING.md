@@ -40,3 +40,4 @@ Notes and usage details for agent-search-mcp.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
